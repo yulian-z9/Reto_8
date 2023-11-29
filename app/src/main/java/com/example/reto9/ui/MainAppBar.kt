@@ -1,4 +1,4 @@
-package com.example.reto8.ui
+package com.example.reto9.ui
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -28,7 +28,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.reto8.R
+import com.example.reto9.R
 
 @Composable
 fun MainAppBar(

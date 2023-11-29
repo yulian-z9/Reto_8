@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.reto8"
+    namespace = "com.example.reto9"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.reto8"
+        applicationId = "com.example.reto9"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
